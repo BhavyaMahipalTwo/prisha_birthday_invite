@@ -1,0 +1,24 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#designed, #designed1{
+    font-family: 'Calligraffitti', cursive;
+    font-weight: 900;
+    font-size: 50;
+}
+
+h3{
+    font-size: 30;
+    font-weight: 500;
+}
+
+#designed1{
+    line-height: 1;
+    font-size: 60;
+}
+
+hr {
+    width: 100%;
+}
